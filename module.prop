@@ -1,0 +1,6 @@
+id=rmNvidiaNvidia_HW_codec
+name=Remove Nvidia Hardware codec
+version=Module
+versionCode=00001
+author=ip
+description=Remove Nvidia Hardware codec. Use Software codec instead.
